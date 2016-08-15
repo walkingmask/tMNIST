@@ -1,0 +1,65 @@
+参考にしたWebページ一覧
+
+Deep MNIST for Experts
+https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/pros/index.html
+
+日本語訳
+http://qiita.com/uramonk/items/fa9cf1f27bb9387a8c3b
+
+日本語解説
+http://qiita.com/haminiku/items/36982ae65a770565458d
+
+MNIST with tensorboard のチュートリアル
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist_with_summaries.py
+
+TensroflowのCNN関連関数
+http://qiita.com/tadOne/items/b484ce9f973a9f80036e
+
+CNNを理解する
+http://tkengo.github.io/blog/2016/03/11/understanding-convolutional-neural-networks-for-nlp/
+
+CNNを理解する2
+http://aidiary.hatenablog.com/entry/20150626/1435329581
+http://aidiary.hatenablog.com/entry/20150714/1436885749
+
+CNNを理解する3
+http://qiita.com/icoxfog417/items/5fd55fad152231d706c2
+
+Rank, Shapeについて
+http://qiita.com/uyuni/items/5659bb23219a00e7621d
+
+MNIST for ML Beginnersの数学的な意味合い
+http://neuralnet.hatenablog.jp/entry/2016/04/20/005417
+
+softmaxについて1
+http://mathtrain.jp/softmax
+
+softmaxについて2
+http://neuralnet.hatenablog.jp/entry/2016/03/29/090712
+
+ロップアウトについて
+http://olanleed.hatenablog.com/entry/2013/12/03/010945
+
+テンソルとは
+http://hooktail.sub.jp/vectoranalysis/TensorConcept/
+
+cross entropyとは1
+https://ja.wikipedia.org/wiki/交差エントロピー
+
+cross entropyとは2
+http://neuralnet.hatenablog.jp/entry/2016/05/17/010816
+
+TensorFlowのコード分割の考え方
+http://qiita.com/sergeant-wizard/items/98ce0993a195475fd7a9
+
+Adam
+https://www.scribd.com/doc/260859670/30minutes-Adam
+https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E7%9A%84%E5%8B%BE%E9%85%8D%E9%99%8D%E4%B8%8B%E6%B3%95#Adam
+
+ReLU関数
+https://ja.wikipedia.org/wiki/%E6%B4%BB%E6%80%A7%E5%8C%96%E9%96%A2%E6%95%B0#ReLU.EF.BC.88.E3.83.A9.E3.83.B3.E3.83.97.E9.96.A2.E6.95.B0.EF.BC.89
+
+Visualize
+https://github.com/tensorflow/tensorflow/issues/908
+http://robromijnders.github.io/tensorflow_basic/
+http://stackoverflow.com/questions/33802336/visualizing-output-of-convolutional-layer-in-tensorflow
