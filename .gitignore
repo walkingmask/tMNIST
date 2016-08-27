@@ -10,3 +10,5 @@ input_data*
 # stored models
 checkpoint
 model*
+
+apikey
