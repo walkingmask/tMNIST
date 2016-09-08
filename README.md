@@ -9,7 +9,8 @@
       |-- reference.txt
       |-- img
       |-- logs
-      `-- src
+      |-- src
+      `-- test
 
 ### reference.txt  
 参考にしたWebページ一覧
@@ -19,7 +20,7 @@
 
 ### logs
 TensorBoard の log．main は20000回の学習後のもので，image_summary なし．その他は各イメージの image_summary ありのサンプルで，学習前の状態のもの．  
-(ファイル名にPC名が含まれていたのでリネームしたところtbが動かなくなったため一旦削除)
+(ファイル名にPC名などが含まれていたのでリネームしたところtbが動かなくなったため一旦削除)
 
 ### src
 各種ソースコード．
@@ -27,6 +28,9 @@ TensorBoard の log．main は20000回の学習後のもので，image_summary �
 * tMNIST1_*.py : 前半パートのソースコード．nocom(プレーン)，com(コメント解説付き)，tb(tensorboard用)
 * tMNIST2_*.py : 後半パートのソースコード
 * *_visualize.py : 各種 image_summary ありの tensorboard の log を作成する
+
+### test
+テスト運用中のスクリプトなど．
 
 ## 実行方法
 
@@ -54,6 +58,7 @@ Python(2.7.11)，virtualenv (15.0.1)，tensorflow (0.8.0) の環境での実行�
 (近日公開予定)
 
 ## ToDo
+* TensorFlow/pyenv のインストール手順/自動インストールスクリプト
 * *_visualize のマージ
 * gif or 動画の作成
 * Webページの作成
