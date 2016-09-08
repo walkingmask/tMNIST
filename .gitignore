@@ -1,11 +1,12 @@
 .DS_Store
 
 # log files
-logs/*
+#logs/*
 
 # input data file & script
 MNIST_data
-input_data*
+#input_data*
+input_data.pyc
 
 # stored models
 checkpoint
